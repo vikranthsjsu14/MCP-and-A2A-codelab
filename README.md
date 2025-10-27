@@ -1,7 +1,7 @@
 # MCP-and-A2A-codelab
 Ran only the codelabs in Google Cloud which I will provide screenshots and videos doing a runthrough of each codelab. 
 
-A. In this lab I create multi agent system with ADK, and deploy in Agent Engine and get started with A2A protocol. 
+A. In this lab I created multi agent system with ADK, and deploy in Agent Engine and get started with A2A protocol. 
 I generated a cat on the beach following the instructions of codelab:
 
 <img width="237" height="409" alt="Screenshot 2025-10-27 at 2 44 49 PM" src="https://github.com/user-attachments/assets/7c10b347-edb4-4c6a-96f4-5031b94a4f79" />
