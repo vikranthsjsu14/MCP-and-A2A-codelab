@@ -15,3 +15,7 @@ Finally here is the image of the bucket:
 Here is the video of the walkthrough:
 
 B. In this lab I worked on MCP, ADK, and A2A
+Here is the screenshot of the creation of currency agent: 
+
+<img width="1438" height="542" alt="Screenshot 2025-10-27 at 5 17 07 PM" src="https://github.com/user-attachments/assets/75a0d192-435b-431d-8465-e7c3589fd000" />
+
