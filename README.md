@@ -25,4 +25,8 @@ Here is a walkthrough video: https://youtu.be/9dDt-itNT6M
 
 C. 
 
+<img width="1153" height="285" alt="Screenshot 2025-10-29 at 12 44 19 PM" src="https://github.com/user-attachments/assets/0023d3e6-efb6-474b-9380-936da0519e7c" />
+
 <img width="511" height="242" alt="Screenshot 2025-10-28 at 2 05 28 PM" src="https://github.com/user-attachments/assets/2c21a9b1-961d-4ae8-94bf-96a09246b388" />
+
+Here is the video walkthrough: https://youtu.be/XHOPTUBwdv4
